@@ -1,8 +1,8 @@
 * text=auto !eol
 /ChangeLog -text
 /Makefile -text
-/Performance -text
 /README -text
+/RunTest -text
 /Tech.Notes -text
 /internal.h -text
 /maketables.c -text
@@ -19,5 +19,7 @@
 /study.c -text
 /testinput -text
 /testinput2 -text
+/testinput3 -text
 /testoutput -text
 /testoutput2 -text
+/testoutput3 -text
