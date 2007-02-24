@@ -1,1 +1,23 @@
 * text=auto !eol
+/ChangeLog -text
+/Makefile -text
+/Performance -text
+/README -text
+/Tech.Notes -text
+/internal.h -text
+/maketables.c -text
+/pcre.3 -text
+/pcre.c -text
+/pcre.h -text
+/pcreposix.3 -text
+/pcreposix.c -text
+/pcreposix.h -text
+/pcretest.c -text
+/perltest -text
+/pgrep.1 -text
+/pgrep.c -text
+/study.c -text
+/testinput -text
+/testinput2 -text
+/testoutput -text
+/testoutput2 -text
