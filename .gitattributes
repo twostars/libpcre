@@ -14,7 +14,7 @@
 /config.h.in -text
 /config.sub -text
 /configure -text
-/configure.in -text
+/configure.ac -text
 /dftables.c -text
 doc/Tech.Notes -text
 doc/html/index.html -text
@@ -99,7 +99,7 @@ doc/perltest.txt -text
 /mkinstalldirs -text
 /pcre-config.in -text
 /pcre.def -text
-/pcre.h.in -text
+/pcre.h -text
 /pcre_compile.c -text
 /pcre_config.c -text
 /pcre_dfa_exec.c -text
@@ -122,13 +122,14 @@ doc/perltest.txt -text
 /pcre_study.c -text
 /pcre_tables.c -text
 /pcre_try_flipped.c -text
-/pcre_ucp_findchar.c -text
+/pcre_ucp_searchfuncs.c -text
 /pcre_valid_utf8.c -text
 /pcre_version.c -text
 /pcre_xclass.c -text
 /pcrecpp.cc -text
-/pcrecpp.h.in -text
+/pcrecpp.h -text
 /pcrecpp_unittest.cc -text
+/pcrecpparg.h.in -text
 /pcredemo.c -text
 /pcregrep.c -text
 /pcreposix.c -text
