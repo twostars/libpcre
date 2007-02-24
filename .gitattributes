@@ -6,6 +6,7 @@
 /RunTest -text
 /Tech.Notes -text
 /dftables.c -text
+/dll.mk -text
 /get.c -text
 /internal.h -text
 /maketables.c -text
@@ -13,6 +14,7 @@
 /pcre.3.html -text
 /pcre.3.txt -text
 /pcre.c -text
+/pcre.def -text
 /pcre.h -text
 /pcreposix.3 -text
 /pcreposix.3.html -text
