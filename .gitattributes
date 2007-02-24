@@ -1,5 +1,6 @@
 * text=auto !eol
 /AUTHORS -text
+/COPYING -text
 /ChangeLog -text
 /INSTALL -text
 /LICENCE -text
@@ -33,9 +34,10 @@ doc/pgrep.txt -text
 /ltconfig -text
 /ltmain.sh -text
 /maketables.c -text
+/pcre-config.in -text
 /pcre.c -text
 /pcre.def -text
-/pcre.h -text
+/pcre.in -text
 /pcreposix.c -text
 /pcreposix.h -text
 /pcretest.c -text
