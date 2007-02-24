@@ -39,9 +39,11 @@ doc/html/pcrebuild.html -text
 doc/html/pcrecallout.html -text
 doc/html/pcrecompat.html -text
 doc/html/pcregrep.html -text
+doc/html/pcrepartial.html -text
 doc/html/pcrepattern.html -text
 doc/html/pcreperform.html -text
 doc/html/pcreposix.html -text
+doc/html/pcreprecompile.html -text
 doc/html/pcresample.html -text
 doc/html/pcretest.html -text
 doc/pcre.3 -text
@@ -68,9 +70,11 @@ doc/pcrecallout.3 -text
 doc/pcrecompat.3 -text
 doc/pcregrep.1 -text
 doc/pcregrep.txt -text
+doc/pcrepartial.3 -text
 doc/pcrepattern.3 -text
 doc/pcreperform.3 -text
 doc/pcreposix.3 -text
+doc/pcreprecompile.3 -text
 doc/pcresample.3 -text
 doc/pcretest.1 -text
 doc/pcretest.txt -text
@@ -79,6 +83,7 @@ doc/perltest.txt -text
 /install-sh -text
 /internal.h -text
 /libpcre.def -text
+/libpcre.pc.in -text
 /libpcreposix.def -text
 /ltmain.sh -text
 /maketables.c -text
@@ -101,8 +106,15 @@ testdata/testinput2 -text
 testdata/testinput3 -text
 testdata/testinput4 -text
 testdata/testinput5 -text
+testdata/testinput6 -text
 testdata/testoutput1 -text
 testdata/testoutput2 -text
 testdata/testoutput3 -text
 testdata/testoutput4 -text
 testdata/testoutput5 -text
+testdata/testoutput6 -text
+/ucp.c -text
+/ucp.h -text
+/ucpinternal.h -text
+/ucptable.c -text
+/ucptypetable.c -text
