@@ -16,7 +16,6 @@
 /configure.in -text
 /dftables.c -text
 doc/Tech.Notes -text
-doc/html/.html -text
 doc/html/index.html -text
 doc/html/pcre.html -text
 doc/html/pcre_compile.html -text
