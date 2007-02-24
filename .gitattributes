@@ -9,6 +9,7 @@
 /NON-UNIX-USE -text
 /README -text
 /RunGrepTest.in -text
+/RunTest.bat -text
 /RunTest.in -text
 /config.guess -text
 /config.h.in -text
@@ -95,8 +96,10 @@ doc/pcretest.1 -text
 doc/pcretest.txt -text
 doc/perltest.txt -text
 /install-sh -text
+/libpcre.a.dev -text
 /libpcre.def -text
 /libpcre.pc.in -text
+/libpcrecpp.pc.in -text
 /libpcreposix.def -text
 /ltmain.sh -text
 /makevp.bat -text
@@ -114,6 +117,7 @@ doc/perltest.txt -text
 /pcre_info.c -text
 /pcre_internal.h -text
 /pcre_maketables.c -text
+/pcre_newline.c -text
 /pcre_ord2utf8.c -text
 /pcre_printint.src -text
 /pcre_refcount.c -text
@@ -141,9 +145,11 @@ doc/perltest.txt -text
 /pcretest.c -text
 /perltest -text
 testdata/grepinput -text
+testdata/grepinput8 -text
 testdata/grepinputx -text
 testdata/greplist -text
 testdata/grepoutput -text
+testdata/grepoutput8 -text
 testdata/testinput1 -text
 testdata/testinput2 -text
 testdata/testinput3 -text
