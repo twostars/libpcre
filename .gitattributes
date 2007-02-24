@@ -4,7 +4,7 @@
 /README -text
 /RunTest -text
 /Tech.Notes -text
-/deftables.c -text
+/dftables.c -text
 /internal.h -text
 /maketables.c -text
 /pcre.3 -text
