@@ -20,11 +20,11 @@
 /pgrep.1 -text
 /pgrep.c -text
 /study.c -text
-/testinput -text
+/testinput1 -text
 /testinput2 -text
 /testinput3 -text
 /testinput4 -text
-/testoutput -text
+/testoutput1 -text
 /testoutput2 -text
 /testoutput3 -text
 /testoutput4 -text
