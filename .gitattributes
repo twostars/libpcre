@@ -1,10 +1,12 @@
 * text=auto !eol
 /ChangeLog -text
+/LICENCE -text
 /Makefile -text
 /README -text
 /RunTest -text
 /Tech.Notes -text
 /dftables.c -text
+/get.c -text
 /internal.h -text
 /maketables.c -text
 /pcre.3 -text
