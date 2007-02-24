@@ -11,7 +11,7 @@
 /RunGrepTest.in -text
 /RunTest.in -text
 /config.guess -text
-/config.in -text
+/config.h.in -text
 /config.sub -text
 /configure -text
 /configure.in -text
@@ -99,7 +99,7 @@ doc/perltest.txt -text
 /mkinstalldirs -text
 /pcre-config.in -text
 /pcre.def -text
-/pcre.in -text
+/pcre.h.in -text
 /pcre_compile.c -text
 /pcre_config.c -text
 /pcre_dfa_exec.c -text
@@ -111,7 +111,7 @@ doc/perltest.txt -text
 /pcre_internal.h -text
 /pcre_maketables.c -text
 /pcre_ord2utf8.c -text
-/pcre_printint.c -text
+/pcre_printint.src -text
 /pcre_refcount.c -text
 /pcre_scanner.cc -text
 /pcre_scanner.h -text
@@ -158,6 +158,5 @@ testdata/testoutput7 -text
 testdata/testoutput8 -text
 testdata/testoutput9 -text
 /ucp.h -text
-/ucp_findchar.c -text
 /ucpinternal.h -text
 /ucptable.c -text
