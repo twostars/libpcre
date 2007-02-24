@@ -78,6 +78,8 @@ doc/perltest.txt -text
 /get.c -text
 /install-sh -text
 /internal.h -text
+/libpcre.def -text
+/libpcreposix.def -text
 /ltmain.sh -text
 /maketables.c -text
 /makevp.bat -text
