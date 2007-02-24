@@ -4,6 +4,7 @@
 /README -text
 /RunTest -text
 /Tech.Notes -text
+/deftables.c -text
 /internal.h -text
 /maketables.c -text
 /pcre.3 -text
@@ -20,6 +21,8 @@
 /testinput -text
 /testinput2 -text
 /testinput3 -text
+/testinput4 -text
 /testoutput -text
 /testoutput2 -text
 /testoutput3 -text
+/testoutput4 -text
