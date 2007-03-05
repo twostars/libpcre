@@ -1,7 +1,26 @@
 * text=auto !eol
+/CMakeLists.txt -text
+/Makefile.am -text
 /RunGrepTest.in -text
 /RunTest.bat -text
 /RunTest.in -text
+/autogen.sh -text
+maintain/132html -text
+maintain/Builducptable -text
+maintain/CleanTxt -text
+maintain/Detrail -text
+maintain/Index.html -text
+maintain/MakeRelease -text
+maintain/README -text
+maintain/Tech.Notes -text
+maintain/Unicode.tables/Scripts.txt -text
+maintain/Unicode.tables/UnicodeData.txt -text
+maintain/ucptest.c -text
+maintain/ucptestdata/testinput1 -text
+maintain/ucptestdata/testoutput1 -text
+maintain/utf8.c -text
+/pcre.h.in -text
+/perltest.pl -text
 testdata/grepinput -text
 testdata/grepinput8 -text
 testdata/grepinputx -text
@@ -28,4 +47,4 @@ testdata/testoutput8 -text
 testdata/testoutput9 -text
 /ucp.h -text
 /ucpinternal.h -text
-/ucptable.c -text
+/ucptable.h -text
