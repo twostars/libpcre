@@ -4,6 +4,8 @@
 /RunGrepTest.in -text
 /RunTest.bat -text
 /RunTest.in -text
+/\!compile.txt -text
+/\!linklib.txt -text
 /autogen.sh -text
 maintain/132html -text
 maintain/Builducptable -text
@@ -20,6 +22,7 @@ maintain/ucptestdata/testinput1 -text
 maintain/ucptestdata/testoutput1 -text
 maintain/utf8.c -text
 /pcre.h.in -text
+/pcregexp.pas -text
 /perltest.pl -text
 testdata/grepinput -text
 testdata/grepinput8 -text
