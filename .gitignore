@@ -10,6 +10,7 @@
 /autom4te.cache
 /config.h
 /config.h.generic
+/config.h.in
 /config.log
 /config.status
 /depcomp
@@ -24,6 +25,7 @@ maintain/ucptest
 maintain/utf8
 /missing
 /pcre-config
+/pcre.h
 /pcre.h.generic
 /pcre_chartables.c
 /pcre_scanner_unittest
