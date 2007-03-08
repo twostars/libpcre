@@ -2,11 +2,14 @@
 /.libs
 /Makefile
 /MyConfigure
+/MyMakeRelease
+/Releases
 /RunGrepTest
 /RunTest
 /aclocal.m4
 /autom4te.cache
 /config.h
+/config.h.generic
 /config.log
 /config.status
 /depcomp
@@ -21,6 +24,7 @@ maintain/ucptest
 maintain/utf8
 /missing
 /pcre-config
+/pcre.h.generic
 /pcre_chartables.c
 /pcre_scanner_unittest
 /pcre_stringpiece.h

@@ -1,18 +1,18 @@
 * text=auto !eol
+/132html -text
 /CMakeLists.txt -text
+/CleanTxt -text
+/Detrail -text
+/Index.html -text
 /Makefile.am -text
+/PrepareRelease -text
 /RunGrepTest.in -text
 /RunTest.bat -text
 /RunTest.in -text
 /\!compile.txt -text
 /\!linklib.txt -text
 /autogen.sh -text
-maintain/132html -text
 maintain/Builducptable -text
-maintain/CleanTxt -text
-maintain/Detrail -text
-maintain/Index.html -text
-maintain/MakeRelease -text
 maintain/README -text
 maintain/Tech.Notes -text
 maintain/Unicode.tables/Scripts.txt -text
