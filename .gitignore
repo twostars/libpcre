@@ -18,11 +18,11 @@
 /libpcre.pc
 /libpcrecpp.pc
 /libtool
-maintain/PushRelease
-maintain/RunPerlTest
-maintain/ToDo
-maintain/ucptest
-maintain/utf8
+maint/PushRelease
+maint/RunPerlTest
+maint/ToDo
+maint/ucptest
+maint/utf8
 /missing
 /pcre-config
 /pcre.h
