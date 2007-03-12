@@ -1,9 +1,6 @@
 /.deps
 /.libs
 /Makefile
-/MyConfigure
-/MyMakeRelease
-/Releases
 /RunGrepTest
 /RunTest
 /aclocal.m4
