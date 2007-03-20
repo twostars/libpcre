@@ -22,6 +22,7 @@ maint/utf8.c -text
 /makevp-compile.txt -text
 /makevp-linklib.txt -text
 /pcre.h.in -text
+/pcre_chartables.c.dist -text
 /pcregexp.pas -text
 /perltest.pl -text
 testdata/grepinput -text
