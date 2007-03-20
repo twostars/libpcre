@@ -33,4 +33,5 @@ maint/utf8
 /stamp-h1
 /testsavedregex
 /teststderr
+/teststdout
 /testtry

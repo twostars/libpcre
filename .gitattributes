@@ -12,6 +12,7 @@
 /autogen.sh -text
 doc/index.html.src -text
 maint/Builducptable -text
+maint/ManyConfigTests -text
 maint/README -text
 maint/Unicode.tables/Scripts.txt -text
 maint/Unicode.tables/UnicodeData.txt -text
