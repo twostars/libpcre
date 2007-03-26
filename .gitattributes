@@ -32,6 +32,7 @@ testdata/grepinputx -text
 testdata/greplist -text
 testdata/grepoutput -text
 testdata/grepoutput8 -text
+testdata/grepoutputN -text
 testdata/testinput1 -text
 testdata/testinput2 -text
 testdata/testinput3 -text
