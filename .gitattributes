@@ -20,8 +20,8 @@ maint/ucptest.c -text
 maint/ucptestdata/testinput1 -text
 maint/ucptestdata/testoutput1 -text
 maint/utf8.c -text
-/makevp-compile.txt -text
-/makevp-linklib.txt -text
+/makevp-c.txt -text
+/makevp-l.txt -text
 /pcre.h.in -text
 /pcre_chartables.c.dist -text
 /pcregexp.pas -text
