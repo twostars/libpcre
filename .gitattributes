@@ -6,10 +6,11 @@
 /HACKING -text
 /Makefile.am -text
 /PrepareRelease -text
-/RunGrepTest.in -text
+/RunGrepTest -text
+/RunTest -text
 /RunTest.bat -text
-/RunTest.in -text
 /autogen.sh -text
+/config-cmake.h.in -text
 doc/index.html.src -text
 maint/Builducptable -text
 maint/ManyConfigTests -text
