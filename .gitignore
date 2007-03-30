@@ -1,10 +1,15 @@
 /.deps
 /.libs
+/CMakeCache.txt
+/CMakeFiles
+/DartTestfile.txt
 /INSTALL
 /Makefile
 /Makefile.in
+/Testing
 /aclocal.m4
 /autom4te.cache
+/cmake_install.cmake
 /config.guess
 /config.h
 /config.h.generic
@@ -17,7 +22,10 @@
 /dftables
 /install-sh
 /libpcre.pc
+/libpcre.so
 /libpcrecpp.pc
+/libpcrecpp.so
+/libpcreposix.so
 /libtool
 /ltmain.sh
 maint/ucptest
@@ -35,6 +43,7 @@ maint/utf8
 /pcredemo
 /pcregrep
 /pcretest
+/progress.make
 /stamp-h1
 /testsavedregex
 /teststderr
