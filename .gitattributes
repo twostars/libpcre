@@ -11,7 +11,10 @@
 /RunTest.bat -text
 /autogen.sh -text
 /config-cmake.h.in -text
+doc/html/pcre-config.html -text
 doc/index.html.src -text
+doc/pcre-config.1 -text
+doc/pcre-config.txt -text
 maint/Builducptable -text
 maint/ManyConfigTests -text
 maint/README -text
