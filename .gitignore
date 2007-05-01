@@ -47,6 +47,7 @@ maint/utf8
 /stamp-h1
 /test3input
 /test3output
+/testNinput
 /testsavedregex
 /teststderr
 /teststdout
