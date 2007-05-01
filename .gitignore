@@ -45,6 +45,8 @@ maint/utf8
 /pcretest
 /progress.make
 /stamp-h1
+/test3input
+/test3output
 /testsavedregex
 /teststderr
 /teststdout
