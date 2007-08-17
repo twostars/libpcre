@@ -35,6 +35,7 @@ maint/utf8.c -text
 /perltest.pl -text
 testdata/grepinput -text
 testdata/grepinput8 -text
+testdata/grepinputv -text
 testdata/grepinputx -text
 testdata/greplist -text
 testdata/grepoutput -text
