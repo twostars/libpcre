@@ -61,6 +61,8 @@ testdata/testoutput6 -text
 testdata/testoutput7 -text
 testdata/testoutput8 -text
 testdata/testoutput9 -text
+testdata/wintestinput3 -text
+testdata/wintestoutput3 -text
 /ucp.h -text
 /ucpinternal.h -text
 /ucptable.h -text
