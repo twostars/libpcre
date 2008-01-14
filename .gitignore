@@ -28,6 +28,7 @@
 /libpcreposix.so
 /libtool
 /ltmain.sh
+maint/TagRelease
 maint/ucptest
 maint/utf8
 /missing
