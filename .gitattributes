@@ -10,6 +10,9 @@
 /RunTest -text
 /RunTest.bat -text
 /autogen.sh -text
+cmake/COPYING-CMAKE-SCRIPTS -text
+cmake/FindPackageHandleStandardArgs.cmake -text
+cmake/FindReadline.cmake -text
 /config-cmake.h.in -text
 doc/html/pcre-config.html -text
 doc/html/pcresyntax.html -text
