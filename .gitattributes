@@ -22,7 +22,9 @@ doc/pcre-config.txt -text
 doc/pcresyntax.3 -text
 maint/Builducptable -text
 maint/ManyConfigTests -text
+maint/MultiStage2.py -text
 maint/README -text
+maint/Unicode.tables/DerivedGeneralCategory.txt -text
 maint/Unicode.tables/Scripts.txt -text
 maint/Unicode.tables/UnicodeData.txt -text
 maint/ucptest.c -text
@@ -33,6 +35,7 @@ maint/utf8.c -text
 /makevp_l.txt -text
 /pcre.h.in -text
 /pcre_chartables.c.dist -text
+/pcre_ucd.c -text
 /pcrecpp_internal.h -text
 /pcregexp.pas -text
 /perltest.pl -text
