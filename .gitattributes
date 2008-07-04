@@ -21,6 +21,7 @@ doc/pcre-config.1 -text
 doc/pcre-config.txt -text
 doc/pcresyntax.3 -text
 maint/Builducptable -text
+maint/GenerateUtt.py -text
 maint/ManyConfigTests -text
 maint/MultiStage2.py -text
 maint/README -text
