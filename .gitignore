@@ -25,6 +25,7 @@
 /libpcre.so
 /libpcrecpp.pc
 /libpcrecpp.so
+/libpcreposix.pc
 /libpcreposix.so
 /libtool
 /ltmain.sh

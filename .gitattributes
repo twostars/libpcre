@@ -20,6 +20,7 @@ doc/index.html.src -text
 doc/pcre-config.1 -text
 doc/pcre-config.txt -text
 doc/pcresyntax.3 -text
+/libpcreposix.pc.in -text
 maint/Builducptable -text
 maint/GenerateUtt.py -text
 maint/ManyConfigTests -text
