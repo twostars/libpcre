@@ -15,10 +15,12 @@ cmake/FindPackageHandleStandardArgs.cmake -text
 cmake/FindReadline.cmake -text
 /config-cmake.h.in -text
 doc/html/pcre-config.html -text
+doc/html/pcredemo.html -text
 doc/html/pcresyntax.html -text
 doc/index.html.src -text
 doc/pcre-config.1 -text
 doc/pcre-config.txt -text
+doc/pcredemo.3 -text
 doc/pcresyntax.3 -text
 /libpcreposix.pc.in -text
 maint/Builducptable -text
