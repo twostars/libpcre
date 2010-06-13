@@ -31,6 +31,7 @@ maint/README -text
 maint/Unicode.tables/DerivedGeneralCategory.txt -text
 maint/Unicode.tables/Scripts.txt -text
 maint/Unicode.tables/UnicodeData.txt -text
+maint/pcre_chartables.c.non-standard -text
 maint/ucptest.c -text
 maint/ucptestdata/testinput1 -text
 maint/ucptestdata/testoutput1 -text
