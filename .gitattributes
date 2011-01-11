@@ -1,6 +1,7 @@
 * text=auto !eol
 /132html -text
 /CMakeLists.txt -text
+/CheckMan -text
 /CleanTxt -text
 /Detrail -text
 /HACKING -text
