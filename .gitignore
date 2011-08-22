@@ -38,6 +38,7 @@ maint/utf8
 /pcre.h
 /pcre.h.generic
 /pcre_chartables.c
+/pcre_jit_test
 /pcre_scanner_unittest
 /pcre_stringpiece.h
 /pcre_stringpiece_unittest
