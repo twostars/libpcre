@@ -41,6 +41,7 @@ maint/utf8.c -text
 /makevp_l.txt -text
 /pcre.h.in -text
 /pcre_chartables.c.dist -text
+/pcre_jit_compile.c -text
 /pcre_ucd.c -text
 /pcrecpp_internal.h -text
 /pcregexp.pas -text
