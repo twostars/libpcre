@@ -77,6 +77,8 @@ testdata/testinput10 -text
 testdata/testinput11 -text
 testdata/testinput12 -text
 testdata/testinput13 -text
+testdata/testinput14 -text
+testdata/testinput15 -text
 testdata/testinput2 -text
 testdata/testinput3 -text
 testdata/testinput4 -text
@@ -90,6 +92,8 @@ testdata/testoutput10 -text
 testdata/testoutput11 -text
 testdata/testoutput12 -text
 testdata/testoutput13 -text
+testdata/testoutput14 -text
+testdata/testoutput15 -text
 testdata/testoutput2 -text
 testdata/testoutput3 -text
 testdata/testoutput4 -text
