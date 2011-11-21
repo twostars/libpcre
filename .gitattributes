@@ -37,6 +37,7 @@ doc/pcrejit.3 -text
 doc/pcrelimits.3 -text
 doc/pcresyntax.3 -text
 doc/pcreunicode.3 -text
+/libpcre16.pc.in -text
 /libpcreposix.pc.in -text
 maint/Builducptable -text
 maint/GenerateUtt.py -text
@@ -54,6 +55,9 @@ maint/utf8.c -text
 /makevp_c.txt -text
 /makevp_l.txt -text
 /pcre.h.in -text
+/pcre16_compile.c -text
+/pcre16_convert_utf16.c -text
+/pcre16_valid_utf16.c -text
 /pcre_chartables.c.dist -text
 /pcre_jit_compile.c -text
 /pcre_jit_test.c -text

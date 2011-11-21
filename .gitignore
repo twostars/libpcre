@@ -23,6 +23,7 @@
 /install-sh
 /libpcre.pc
 /libpcre.so
+/libpcre16.pc
 /libpcrecpp.pc
 /libpcrecpp.so
 /libpcreposix.pc
