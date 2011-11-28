@@ -66,6 +66,7 @@ maint/utf8.c -text
 /pcre16_try_flipped.c -text
 /pcre16_utf16_utils.c -text
 /pcre16_valid_utf16.c -text
+/pcre16_xclass.c -text
 /pcre_chartables.c.dist -text
 /pcre_jit_compile.c -text
 /pcre_jit_test.c -text
