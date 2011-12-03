@@ -60,6 +60,7 @@ maint/utf8.c -text
 /pcre16_exec.c -text
 /pcre16_jit_compile.c -text
 /pcre16_newline.c -text
+/pcre16_ord2utf16.c -text
 /pcre16_string_utils.c -text
 /pcre16_study.c -text
 /pcre16_tables.c -text
