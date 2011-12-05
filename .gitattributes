@@ -58,6 +58,8 @@ maint/utf8.c -text
 /pcre16_chartables.c -text
 /pcre16_compile.c -text
 /pcre16_exec.c -text
+/pcre16_fullinfo.c -text
+/pcre16_info.c -text
 /pcre16_jit_compile.c -text
 /pcre16_newline.c -text
 /pcre16_ord2utf16.c -text
@@ -68,6 +70,7 @@ maint/utf8.c -text
 /pcre16_ucd.c -text
 /pcre16_utf16_utils.c -text
 /pcre16_valid_utf16.c -text
+/pcre16_version.c -text
 /pcre16_xclass.c -text
 /pcre_chartables.c.dist -text
 /pcre_jit_compile.c -text
