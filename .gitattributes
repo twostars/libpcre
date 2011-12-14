@@ -62,6 +62,7 @@ maint/utf8.c -text
 /pcre16_exec.c -text
 /pcre16_fullinfo.c -text
 /pcre16_get.c -text
+/pcre16_globals.c -text
 /pcre16_info.c -text
 /pcre16_jit_compile.c -text
 /pcre16_maketables.c -text
