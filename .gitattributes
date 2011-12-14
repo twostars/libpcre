@@ -68,6 +68,7 @@ maint/utf8.c -text
 /pcre16_maketables.c -text
 /pcre16_newline.c -text
 /pcre16_ord2utf16.c -text
+/pcre16_printint.c -text
 /pcre16_refcount.c -text
 /pcre16_string_utils.c -text
 /pcre16_study.c -text
@@ -81,6 +82,7 @@ maint/utf8.c -text
 /pcre_chartables.c.dist -text
 /pcre_jit_compile.c -text
 /pcre_jit_test.c -text
+/pcre_printint.c -text
 /pcre_string_utils.c -text
 /pcre_ucd.c -text
 /pcrecpp_internal.h -text
