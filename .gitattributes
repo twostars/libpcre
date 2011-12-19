@@ -55,6 +55,7 @@ maint/utf8.c -text
 /makevp_c.txt -text
 /makevp_l.txt -text
 /pcre.h.in -text
+/pcre16_byte_order.c -text
 /pcre16_chartables.c -text
 /pcre16_compile.c -text
 /pcre16_config.c -text
@@ -73,7 +74,6 @@ maint/utf8.c -text
 /pcre16_string_utils.c -text
 /pcre16_study.c -text
 /pcre16_tables.c -text
-/pcre16_try_flipped.c -text
 /pcre16_ucd.c -text
 /pcre16_utf16_utils.c -text
 /pcre16_valid_utf16.c -text
