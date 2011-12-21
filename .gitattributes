@@ -122,6 +122,8 @@ testdata/testinput14 -text
 testdata/testinput15 -text
 testdata/testinput16 -text
 testdata/testinput17 -text
+testdata/testinput18 -text
+testdata/testinput19 -text
 testdata/testinput2 -text
 testdata/testinput3 -text
 testdata/testinput4 -text
@@ -132,13 +134,16 @@ testdata/testinput8 -text
 testdata/testinput9 -text
 testdata/testoutput1 -text
 testdata/testoutput10 -text
-testdata/testoutput11 -text
+testdata/testoutput11-16 -text
+testdata/testoutput11-8 -text
 testdata/testoutput12 -text
 testdata/testoutput13 -text
 testdata/testoutput14 -text
 testdata/testoutput15 -text
 testdata/testoutput16 -text
 testdata/testoutput17 -text
+testdata/testoutput18 -text
+testdata/testoutput19 -text
 testdata/testoutput2 -text
 testdata/testoutput3 -text
 testdata/testoutput4 -text
