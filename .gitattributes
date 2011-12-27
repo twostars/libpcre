@@ -112,6 +112,8 @@ testdata/greplist -text
 testdata/grepoutput -text
 testdata/grepoutput8 -text
 testdata/grepoutputN -text
+testdata/saved16 -text
+testdata/saved8 -text
 testdata/testinput1 -text
 testdata/testinput10 -text
 testdata/testinput11 -text
