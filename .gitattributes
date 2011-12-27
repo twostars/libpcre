@@ -126,6 +126,7 @@ testdata/testinput17 -text
 testdata/testinput18 -text
 testdata/testinput19 -text
 testdata/testinput2 -text
+testdata/testinput20 -text
 testdata/testinput3 -text
 testdata/testinput4 -text
 testdata/testinput5 -text
@@ -146,6 +147,7 @@ testdata/testoutput17 -text
 testdata/testoutput18 -text
 testdata/testoutput19 -text
 testdata/testoutput2 -text
+testdata/testoutput20 -text
 testdata/testoutput3 -text
 testdata/testoutput4 -text
 testdata/testoutput5 -text
