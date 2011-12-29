@@ -112,6 +112,7 @@ testdata/greplist -text
 testdata/grepoutput -text
 testdata/grepoutput8 -text
 testdata/grepoutputN -text
+testdata/greppatN4 -text
 testdata/saved16 -text
 testdata/saved8 -text
 testdata/testinput1 -text
