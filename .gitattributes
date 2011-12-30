@@ -114,6 +114,10 @@ testdata/grepoutput8 -text
 testdata/grepoutputN -text
 testdata/greppatN4 -text
 testdata/saved16 -text
+testdata/saved16BE-1 -text
+testdata/saved16BE-2 -text
+testdata/saved16LE-1 -text
+testdata/saved16LE-2 -text
 testdata/saved8 -text
 testdata/testinput1 -text
 testdata/testinput10 -text
