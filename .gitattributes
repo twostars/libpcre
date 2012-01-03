@@ -16,6 +16,7 @@ cmake/FindPackageHandleStandardArgs.cmake -text
 cmake/FindReadline.cmake -text
 /config-cmake.h.in -text
 doc/html/pcre-config.html -text
+doc/html/pcre16.html -text
 doc/html/pcre_assign_jit_stack.html -text
 doc/html/pcre_free_study.html -text
 doc/html/pcre_jit_stack_alloc.html -text
@@ -28,6 +29,7 @@ doc/html/pcreunicode.html -text
 doc/index.html.src -text
 doc/pcre-config.1 -text
 doc/pcre-config.txt -text
+doc/pcre16.3 -text
 doc/pcre_assign_jit_stack.3 -text
 doc/pcre_free_study.3 -text
 doc/pcre_jit_stack_alloc.3 -text
