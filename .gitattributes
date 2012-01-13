@@ -34,6 +34,8 @@ doc/pcre_assign_jit_stack.3 -text
 doc/pcre_free_study.3 -text
 doc/pcre_jit_stack_alloc.3 -text
 doc/pcre_jit_stack_free.3 -text
+doc/pcre_pattern_to_host_byte_order.3 -text
+doc/pcre_utf16_to_host_byte_order.3 -text
 doc/pcredemo.3 -text
 doc/pcrejit.3 -text
 doc/pcrelimits.3 -text
