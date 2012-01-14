@@ -21,6 +21,8 @@ doc/html/pcre_assign_jit_stack.html -text
 doc/html/pcre_free_study.html -text
 doc/html/pcre_jit_stack_alloc.html -text
 doc/html/pcre_jit_stack_free.html -text
+doc/html/pcre_pattern_to_host_byte_order.html -text
+doc/html/pcre_utf16_to_host_byte_order.html -text
 doc/html/pcredemo.html -text
 doc/html/pcrejit.html -text
 doc/html/pcrelimits.html -text
