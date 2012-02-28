@@ -110,6 +110,7 @@ sljit/sljitNativeX86_32.c -text
 sljit/sljitNativeX86_64.c -text
 sljit/sljitNativeX86_common.c -text
 sljit/sljitUtils.c -text
+testdata/grepfilelist -text
 testdata/grepinput -text
 testdata/grepinput3 -text
 testdata/grepinput8 -text
