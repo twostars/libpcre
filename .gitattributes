@@ -6,6 +6,7 @@
 /Detrail -text
 /HACKING -text
 /Makefile.am -text
+/NON-AUTOTOOLS-BUILD -text
 /PrepareRelease -text
 /RunGrepTest -text
 /RunTest -text
