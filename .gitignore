@@ -56,4 +56,6 @@ maint/utf8
 /testsavedregex
 /teststderr
 /teststdout
+/testtemp1
+/testtemp2
 /testtry
