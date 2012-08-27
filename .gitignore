@@ -30,6 +30,8 @@
 /libpcreposix.so
 /libtool
 /ltmain.sh
+m4/libtool*
+m4/lt*
 maint/TagRelease
 maint/ucptest
 maint/utf8
