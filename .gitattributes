@@ -153,6 +153,7 @@ testdata/testinput6 -text
 testdata/testinput7 -text
 testdata/testinput8 -text
 testdata/testinput9 -text
+testdata/testinputEBC -text
 testdata/testoutput1 -text
 testdata/testoutput10 -text
 testdata/testoutput11-16 -text
@@ -176,6 +177,7 @@ testdata/testoutput6 -text
 testdata/testoutput7 -text
 testdata/testoutput8 -text
 testdata/testoutput9 -text
+testdata/testoutputEBC -text
 testdata/wintestinput3 -text
 testdata/wintestoutput3 -text
 /ucp.h -text
