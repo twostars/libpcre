@@ -53,6 +53,7 @@ maint/GenerateUtt.py -text
 maint/ManyConfigTests -text
 maint/MultiStage2.py -text
 maint/README -text
+maint/Unicode.tables/CaseFolding.txt -text
 maint/Unicode.tables/DerivedGeneralCategory.txt -text
 maint/Unicode.tables/GraphemeBreakProperty.txt -text
 maint/Unicode.tables/Scripts.txt -text
