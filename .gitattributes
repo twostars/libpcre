@@ -34,18 +34,21 @@ doc/index.html.src -text
 doc/pcre-config.1 -text
 doc/pcre-config.txt -text
 doc/pcre16.3 -text
+doc/pcre32.3 -text
 doc/pcre_assign_jit_stack.3 -text
 doc/pcre_free_study.3 -text
 doc/pcre_jit_stack_alloc.3 -text
 doc/pcre_jit_stack_free.3 -text
 doc/pcre_pattern_to_host_byte_order.3 -text
 doc/pcre_utf16_to_host_byte_order.3 -text
+doc/pcre_utf32_to_host_byte_order.3 -text
 doc/pcredemo.3 -text
 doc/pcrejit.3 -text
 doc/pcrelimits.3 -text
 doc/pcresyntax.3 -text
 doc/pcreunicode.3 -text
 /libpcre16.pc.in -text
+/libpcre32.pc.in -text
 /libpcreposix.pc.in -text
 m4/ax_pthread.m4 -text
 maint/Builducptable -text
@@ -89,6 +92,7 @@ maint/utf8.c -text
 /pcre16_valid_utf16.c -text
 /pcre16_version.c -text
 /pcre16_xclass.c -text
+/pcre32_utf32_utils.c -text
 /pcre_chartables.c.dist -text
 /pcre_jit_compile.c -text
 /pcre_jit_test.c -text
@@ -131,6 +135,11 @@ testdata/saved16BE-1 -text
 testdata/saved16BE-2 -text
 testdata/saved16LE-1 -text
 testdata/saved16LE-2 -text
+testdata/saved32 -text svneol=unset#unset
+testdata/saved32BE-1 -text svneol=unset#unset
+testdata/saved32BE-2 -text svneol=unset#unset
+testdata/saved32LE-1 -text svneol=unset#unset
+testdata/saved32LE-2 -text svneol=unset#unset
 testdata/saved8 -text
 testdata/testinput1 -text
 testdata/testinput10 -text
@@ -147,6 +156,10 @@ testdata/testinput2 -text
 testdata/testinput20 -text
 testdata/testinput21 -text
 testdata/testinput22 -text
+testdata/testinput23 -text
+testdata/testinput24 -text
+testdata/testinput25 -text
+testdata/testinput26 -text
 testdata/testinput3 -text
 testdata/testinput4 -text
 testdata/testinput5 -text
@@ -158,6 +171,7 @@ testdata/testinputEBC -text
 testdata/testoutput1 -text
 testdata/testoutput10 -text
 testdata/testoutput11-16 -text
+testdata/testoutput11-32 -text
 testdata/testoutput11-8 -text
 testdata/testoutput12 -text
 testdata/testoutput13 -text
@@ -165,12 +179,19 @@ testdata/testoutput14 -text
 testdata/testoutput15 -text
 testdata/testoutput16 -text
 testdata/testoutput17 -text
-testdata/testoutput18 -text
+testdata/testoutput18-16 -text
+testdata/testoutput18-32 -text
 testdata/testoutput19 -text
 testdata/testoutput2 -text
 testdata/testoutput20 -text
-testdata/testoutput21 -text
-testdata/testoutput22 -text
+testdata/testoutput21-16 -text
+testdata/testoutput21-32 -text
+testdata/testoutput22-16 -text
+testdata/testoutput22-32 -text
+testdata/testoutput23 -text
+testdata/testoutput24 -text
+testdata/testoutput25 -text
+testdata/testoutput26 -text
 testdata/testoutput3 -text
 testdata/testoutput4 -text
 testdata/testoutput5 -text
