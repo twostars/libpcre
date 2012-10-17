@@ -24,6 +24,7 @@
 /libpcre.pc
 /libpcre.so
 /libpcre16.pc
+/libpcre32.pc
 /libpcrecpp.pc
 /libpcrecpp.so
 /libpcreposix.pc
