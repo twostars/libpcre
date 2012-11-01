@@ -55,6 +55,7 @@ doc/pcreunicode.3 -text
 /libpcre32.pc.in -text
 /libpcreposix.pc.in -text
 m4/ax_pthread.m4 -text
+m4/pcre_visibility.m4 -text
 maint/Builducptable -text
 maint/GenerateUtt.py -text
 maint/ManyConfigTests -text
