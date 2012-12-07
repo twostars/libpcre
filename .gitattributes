@@ -56,7 +56,6 @@ doc/pcreunicode.3 -text
 /libpcreposix.pc.in -text
 m4/ax_pthread.m4 -text
 m4/pcre_visibility.m4 -text
-maint/Builducptable -text
 maint/GenerateUtt.py -text
 maint/ManyConfigTests -text
 maint/MultiStage2.py -text
@@ -210,5 +209,3 @@ testdata/testoutputEBC -text
 testdata/wintestinput3 -text
 testdata/wintestoutput3 -text
 /ucp.h -text
-/ucpinternal.h -text
-/ucptable.h -text
