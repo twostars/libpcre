@@ -8,6 +8,7 @@
 /Makefile.in
 /Testing
 /aclocal.m4
+/ar-lib
 /autom4te.cache
 /cmake_install.cmake
 /compile
@@ -53,6 +54,7 @@ maint/utf8
 /pcretest
 /progress.make
 /stamp-h1
+/test-driver
 /test3input
 /test3output
 /testNinput
