@@ -17,6 +17,8 @@ cmake/FindEditline.cmake -text
 cmake/FindPackageHandleStandardArgs.cmake -text
 cmake/FindReadline.cmake -text
 /config-cmake.h.in -text
+doc/html/NON-AUTOTOOLS-BUILD.txt -text
+doc/html/README.txt -text
 doc/html/pcre-config.html -text
 doc/html/pcre16.html -text
 doc/html/pcre32.html -text
