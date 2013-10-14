@@ -122,6 +122,8 @@ sljit/sljitNativePPC_64.c -text
 sljit/sljitNativePPC_common.c -text
 sljit/sljitNativeSPARC_32.c -text
 sljit/sljitNativeSPARC_common.c -text
+sljit/sljitNativeTILEGX-encoder.c -text
+sljit/sljitNativeTILEGX.c -text
 sljit/sljitNativeX86_32.c -text
 sljit/sljitNativeX86_64.c -text
 sljit/sljitNativeX86_common.c -text
