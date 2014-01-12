@@ -203,6 +203,8 @@ testdata/testoutput24 -text
 testdata/testoutput25 -text
 testdata/testoutput26 -text
 testdata/testoutput3 -text
+testdata/testoutput3A -text
+testdata/testoutput3B -text
 testdata/testoutput4 -text
 testdata/testoutput5 -text
 testdata/testoutput6 -text
