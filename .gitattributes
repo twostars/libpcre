@@ -113,6 +113,7 @@ sljit/sljitConfigInternal.h -text
 sljit/sljitExecAllocator.c -text
 sljit/sljitLir.c -text
 sljit/sljitLir.h -text
+sljit/sljitNativeARM_64.c -text
 sljit/sljitNativeARM_Thumb2.c -text
 sljit/sljitNativeARM_v5.c -text
 sljit/sljitNativeMIPS_32.c -text
