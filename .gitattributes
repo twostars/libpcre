@@ -117,6 +117,7 @@ sljit/sljitNativeARM_32.c -text
 sljit/sljitNativeARM_64.c -text
 sljit/sljitNativeARM_T2_32.c -text
 sljit/sljitNativeMIPS_32.c -text
+sljit/sljitNativeMIPS_64.c -text
 sljit/sljitNativeMIPS_common.c -text
 sljit/sljitNativePPC_32.c -text
 sljit/sljitNativePPC_64.c -text
