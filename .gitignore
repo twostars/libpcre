@@ -57,10 +57,14 @@ maint/utf8
 /test-driver
 /test3input
 /test3output
-/testNinput
+/test3outputA
+/test3outputB
+/testNinputgrep
 /testsavedregex
 /teststderr
+/teststderrgrep
 /teststdout
-/testtemp1
-/testtemp2
+/testtemp1grep
+/testtemp2grep
 /testtry
+/testtrygrep
